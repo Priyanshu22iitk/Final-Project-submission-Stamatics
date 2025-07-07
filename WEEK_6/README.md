@@ -83,10 +83,5 @@ This project is part of the **Deep Learning Specialization – Week 6 (CNNs)** a
 
 ---
 
-## 🙋‍♂️ Author
 
-**Priyanshu Pandey**  
-_Deep Learning Specialization – IITK Statamatics Assignment_
-
----
 
